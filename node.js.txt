@@ -1,0 +1,15 @@
+Node.js 설치
+node -v
+
+npm install -g @vue/cli
+vue --version
+
+2.x 버전 삭제 명령어
+npm r -g vue-cli
+npm i -g @vue/cli-init
+npm istall vue-dragscroll
+vue create PROJECTNAME
+
+
+babel
+css
